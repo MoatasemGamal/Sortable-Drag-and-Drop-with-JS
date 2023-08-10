@@ -2,8 +2,13 @@
 
 ## I have make a two different drag & drop elements:
 
-- one with sort feature
-- other without sort feature
+- ### one without sort feature
+
+  ![not sortable drag & drop js preview image](unsortable-preview.gif "not sortable drag & drop js preview")
+
+- ### other with sort feature
+
+  ![sortable drag & drop js preview image](sortable-preview.gif "sortable drag & drop js preview")
 
 ## resources:
 
